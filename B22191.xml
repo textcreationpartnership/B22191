@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments last order and determination for the safety and security of Hull with their present order for 1000 men to be presently raised and sent for the preservation therof : with the project of the Earl of Lindsey to stop all passage for provision to the said town : with the apprehension and taking of 9 Irish rebels the manner and means of their taking which on Saturday last were brought to London and are now in New-gate : whereunto is annexed a declaration of the Lords and Commons concerning the distractions of the Kingdome.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22191</idno><idno type="EEBO-CITATION">12253702</idno>
+  <idno type="VID">197373</idno>
+  <idno type="EEBO-PROQUEST">2240950508</idno>
+  
+            <idno type="STC">Wing E2139</idno>
+            <idno type="OCLC">12253702</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments last order and determination for the safety and security of Hull with their present order for 1000 men to be presently raised and sent for the preservation therof : with the project of the Earl of Lindsey to stop all passage for provision to the said town : with the apprehension and taking of 9 Irish rebels the manner and means of their taking which on Saturday last were brought to London and are now in New-gate : whereunto is annexed a declaration of the Lords and Commons concerning the distractions of the Kingdome.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Watson,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>July 27, [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lindsey, Robert Bertie, --  Earl of, 1582-1642.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Hull (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197373:1"/>
+            <p>THE PARLIAMENTS LAST ORDER And Determination, for the safety and security of <hi>Hull.</hi> With their present Order for 1000. men to be present<g ref="char:EOLhyphen"/>ly raised, and sent for the preservation thereof.</p>
+            <p>WITH.<lb/> The Project of the Earl of <hi>Lindsey,</hi> to stop all Pas<g ref="char:EOLhyphen"/>sage for Provision to the said town. With the apprehension and taking of 9. <hi>Irish</hi> Rebels, the manner and means of their taking, which on Saturday last were brought to <hi>London,</hi> and are now in <hi>New-Gate.</hi>
+            </p>
+            <p>
+               <hi>VVhereunto is annexed,</hi> A Declaration of the <hi>Lords</hi> and <hi>Commons,</hi> concerning the Distractions of the Kingdome,</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and published.</p>
+                        <closer>
+                           <signed>John Brown Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>July 27. LONDON, Printed for <hi>I. Watson.</hi>
+            </p>
+            <pb facs="tcp:197373:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197373:2"/>
+            <head>THE PARLIAMENTS <hi>LAST Order and Determinaiion concerning the safety and security of</hi> Hull.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orreign Countries hath of late months rejoyced at the Distractions of this Kingdome, and the desires of them hath bin for the ill successe of Sir <hi>John Hotham:</hi> but now it is most Remarkable to observe how the Town of <hi>Hull</hi> hath from time to time bin pre<g ref="char:EOLhyphen"/>served▪ since their hath bin so many at<g ref="char:EOLhyphen"/>tempts
+<pb facs="tcp:197373:3"/> made against the security there<g ref="char:EOLhyphen"/>of.</p>
+            <p>Which the Parliament taking into their consideration, Upon Friday last, being the 23. of this instant month of <hi>July,</hi> the House of Commons taking into consideration the strength and po<g ref="char:EOLhyphen"/>wer of the malignant Party, by whose ill Suggestions and Councels, these Dif<g ref="char:EOLhyphen"/>ferences in the Common-wealth, be<g ref="char:EOLhyphen"/>tween his Majesty and his Parliament have bin bred, and fomented, and also took further into consideration, the pre<g ref="char:EOLhyphen"/>sent and urgent necessity of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>And upon a Message there was a Con<g ref="char:EOLhyphen"/>ference, where after some debate of the businesse, it was presently concluded.</p>
+            <p>That 1000. men more should forth<g ref="char:EOLhyphen"/>with be sent to <hi>Hull,</hi> and that present pay should forthwith be advanced to the Officers, who should be appointed for that Service.</p>
+            <p>And they further that day concluded, for all other needfull provision to bee
+<pb facs="tcp:197373:3"/> sent, which should concurre to the secu<g ref="char:EOLhyphen"/>rity therof.</p>
+            <p>The same day likewise sate the Com<g ref="char:EOLhyphen"/>miteee for the safety of the Kingdome, where they concluded of Officers that were to have Command of those Forces which were to go for <hi>Hull.</hi>
+            </p>
+            <p>The Earl of <hi>Lindsey</hi> understanding that Sir <hi>John Hotham</hi> had let in the wa<g ref="char:EOLhyphen"/>ters three miles round about <hi>Hull,</hi> for the preservation of the said town, and now perceiving that all attempts a<g ref="char:EOLhyphen"/>gainst the said town would be frustrate and to no purpose, began to make use of his pollicy, and to countermand policie with policie, and drew along with him great store of provision for warre to Barton upon Humber, where having setled himself for a season, and having taken a view of the most advantagious place for his best advantage, he mounted four or five pieces of Ordinance in that manner, that by that means he did hin<g ref="char:EOLhyphen"/>der all means of passage that way to <hi>Hull.</hi>
+            </p>
+            <pb facs="tcp:197373:4"/>
+            <p> And also commanded the whole Ri<g ref="char:EOLhyphen"/>ver, so that no vessell could passe by that Road to bring in any provision to the town; but either they must passe the hazard of those great pieces, or else they must be constrained to go about some other way.</p>
+            <p>On Saturday last, it pleased Almighty God to give a shew unto us of our revi<g ref="char:EOLhyphen"/>ving hopes, in that we did behold some of those blood-thirsty Persecutors, taken and delivered up into the hands of Iu<g ref="char:EOLhyphen"/>stice.</p>
+            <p>For after their cruel persecution, when they had suckt their sill of Protestant blood, some of them were taken to their own Confusion.</p>
+            <p>This is the manner and meanes of their apprehension.</p>
+            <p>They were gathered together in a great multitude about the City of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> and in this their mutinous pro<g ref="char:EOLhyphen"/>gresse were intended to sire all the smal and scattering Houses about the City,
+<pb facs="tcp:197373:4"/> supposing that they might by that means surprize and invade the whole City. Notice whereof was given to the forces vvithin the City, which lay in a readinesse, alwayes expecting an occasion for their service.</p>
+            <p>And now when they saw their op<g ref="char:EOLhyphen"/>portunity, they issued forth of the City in a full Body, and gave them an Encoun<g ref="char:EOLhyphen"/>ter which was so fierce, that the Rebels could not endure the heat of the Com<g ref="char:EOLhyphen"/>bate, and amongst the slaughtered bodies these nine persons were taken Prisoners, which for a while were kept in custody, but of late were sent over to be adjudg<g ref="char:EOLhyphen"/>ed and determined of by the Houses of <hi>Parliament,</hi> and on Saturday last, were brought to <hi>London,</hi> and are at this time prisoners in <hi>New-Gate.</hi>
+            </p>
+            <div type="part">
+               <head>Propisitions for Peace.</head>
+               <p>FIrst, That his Majesty would be plea<g ref="char:EOLhyphen"/>sed to forbear and remove all prepa<g ref="char:EOLhyphen"/>rations and Actions of Warre, particular<g ref="char:EOLhyphen"/>ly the Forces from about <hi>Hull, Newcastle, Tinmouth, Lincoln,</hi> and all other places.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:197373:5"/>
+               <head>The Parliaments Declaration.</head>
+               <p>THe Lords and Commons do declare, that a Garrison of Souldiers is at New-ca<g ref="char:EOLhyphen"/>stle under the Command of the Earl of New<g ref="char:EOLhyphen"/>castle Likewise Earl Rivers being put into the Commission of Ariay, exercizes it with much rigour, imprisoning oll thoso that oppose him.</p>
+            </div>
+            <closer/>
+            <postscript>
+               <p>Ordered that this be printed and published</p>
+               <closer>
+                  <signed>John Brown Cler. Par.</signed>
+               </closer>
+            </postscript>
+            <trailer type="illustration">
+               <figure/>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
